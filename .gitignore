@@ -1,0 +1,10 @@
+build/
+out/
+.vs/
+.vscode/
+
+# 本次按要求暂不同步文档
+docs/
+README.md
+TODO.md
+
