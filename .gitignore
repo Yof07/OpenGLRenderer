@@ -3,8 +3,8 @@ out/
 .vs/
 .vscode/
 
-# 本次按要求暂不同步文档
-docs/
+# 本次按要求暂不同步大部分文档，只同步开发计划
+docs/*
+!docs/development-plan.md
 README.md
 TODO.md
-
