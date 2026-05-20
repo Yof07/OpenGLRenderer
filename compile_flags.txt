@@ -1,0 +1,14 @@
+-x
+c++
+-std=c++17
+--target=x86_64-pc-windows-msvc
+-fms-compatibility
+-fms-extensions
+-Isrc
+-Ibuild/_deps/glfw-src/include
+-Ibuild/gladsources/glad_gl_core_43/include
+-Ibuild/_deps/glm-src
+-Ibuild/_deps/assimp-src/include
+-Ibuild/_deps/assimp-build/include
+-Ibuild/_deps/imgui-src
+-Ibuild/_deps/imgui-src/backends
